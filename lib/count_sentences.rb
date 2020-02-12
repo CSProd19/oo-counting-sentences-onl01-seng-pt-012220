@@ -3,7 +3,11 @@ require 'pry'
 class String
 
   def sentence?
-    
+    if self.sentence?
+      
+    else 
+      
+    end
   end
 
   def question?
